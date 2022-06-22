@@ -1,2 +1,2 @@
-#!/bin/bash
-0 search School
+0 string SCHOOL School data
+!:mine School
