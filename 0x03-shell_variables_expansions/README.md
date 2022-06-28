@@ -17,4 +17,4 @@
 14. Decimal to Hexadecimal -> Write a script that converts a number from base 10 to base 16.
 15. Everyone is a proponent of strong encryption -> Write a script that encodes and decodes text using the rot13 encryption. Assume ASCII.
 17. I'm an instant star. Just add water and stir -> Write a shell script that adds the two numbers stored in the environment variables WATER and STIR and prints the result.
-
+17. I'm an instant star. Just add water and stir -> Write a shell script that adds the two numbers stored in the environment variables WATER and STIR and prints the result.
