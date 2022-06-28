@@ -11,3 +11,4 @@
 8. Every addition to true knowledge is an addition to human power -> Write a script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
 9. Divide and rule -> Write a script that prints the result of POWER divided by DIVIDE, followed by a new line
 10. Love is anterior to life, posterior to death, initial of creation, and the exponent of breath -> Write a script that displays the result of BREATH to the power LOVE
+11. There are 10 types of people in the world -- Those who understand binary, and those who don't -> Write a script that converts a number from base 2 to base 10.
