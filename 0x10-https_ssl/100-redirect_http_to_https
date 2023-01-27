@@ -42,4 +42,4 @@ frontend myfrontend
 backend myservers
 	balance roundrobin
 	server web-01 3.85.136.30:80 check
-	server web-02 100.25.142.15:80 check	
+	server web-02 100.25.142.15:80 check
